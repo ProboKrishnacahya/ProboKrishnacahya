@@ -11,7 +11,7 @@
 
 ## I am Probo Krishnacahya and good to see you
 [![Gmail Badge](https://img.shields.io/badge/-prob.krshn@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:prob.krshn@gmail.com)](mailto:prob.krshn@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Probo Krishnacahya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/probo-krishnacahya/)](https://www.linkedin.com/in/probo-krishnacahya/)
+[![Linkedin Badge](https://img.shields.io/badge/-ProboKrishnacahya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/probo-krishnacahya/)](https://www.linkedin.com/in/probo-krishnacahya/)
 [![Github Badge](https://img.shields.io/badge/-cahyaa5758-grey?style=flat&logo=github&logoColor=white&link=https://github.com/cahyaa5758/)](https://www.github.com/cahyaa5758/) 
 [![Instagram Badge](https://img.shields.io/badge/-inspirasiprogrammer-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/inspirasiprogrammer/)](https://instagram.com/inspirasiprogrammer)
 [![Telegram Badge](https://img.shields.io/badge/-@IrwanSyahputra-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/inspirasiprogrammer "Contact on Telegram")
