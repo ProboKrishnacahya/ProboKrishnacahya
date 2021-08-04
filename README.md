@@ -10,11 +10,11 @@
 - ⚡ Fun fact: -->
 
 ## I am Probo Krishnacahya and good to see you
-[![Gmail Badge](https://img.shields.io/badge/-prob.krshn@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:prob.krshn@gmail.com)](mailto:prob.krshn@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-ProboKrishnacahya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/probo-krishnacahya/)](https://www.linkedin.com/in/probo-krishnacahya/)
-[![Github Badge](https://img.shields.io/badge/-cahyaa5758-grey?style=flat&logo=github&logoColor=white&link=https://github.com/cahyaa5758/)](https://www.github.com/cahyaa5758/) 
-[![Instagram Badge](https://img.shields.io/badge/-inspirasiprogrammer-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/inspirasiprogrammer/)](https://instagram.com/inspirasiprogrammer)
-[![Telegram Badge](https://img.shields.io/badge/-@IrwanSyahputra-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/inspirasiprogrammer "Contact on Telegram")
+[![Gmail Badge](https://img.shields.io/badge/-prob.krshn@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:prob.krshn@gmail.com)](mailto:prob.krshn@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-ProboKrishnacahya-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/probo-krishnacahya/)](https://www.linkedin.com/in/probo-krishnacahya/)
+[![Github Badge](https://img.shields.io/badge/-cahyaa5758-grey?style=plastic&logo=github&logoColor=white&link=https://github.com/cahyaa5758/)](https://www.github.com/cahyaa5758/) 
+[![Instagram Badge](https://img.shields.io/badge/-cahyaa__02-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/cahyaa__02)](https://instagram.com/cahyaa__02)
+[![Telegram Badge](https://img.shields.io/badge/-@krshn5758-0088CC?style=plastic&logo=Telegram&logoColor=white)](https://t.me/krshn5758 "Contact on Telegram")
 
 ## Some of my Github Stats
 [![Github stats](https://github-readme-stats.vercel.app/api?username=cahyaa5758&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/cahyaa5758/github-readme-stats)<br>
