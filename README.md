@@ -17,8 +17,8 @@
 ![Java](https://img.shields.io/badge/-Java-F95728?style=plastic&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB3?style=plastic&logo=php&logoColor=white)
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=cahyaa5758&count_private=true&show_icons=true&include_all_commits=true&icon_color=AEFDFF&border_radius=7.5px&border_color=628FDB&theme=tokyonight)](https://github.com/cahyaa5758/github-readme-stats) &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cahyaa5758&layout=compact&langs_count=25&border_radius=7.5px&border_color=B85776&theme=dracula)](https://github.com/cahyaa5758/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cahyaa5758&layout=compact&langs_count=25&border_radius=7.5px&border_color=B85776&theme=dracula)](https://github.com/cahyaa5758/github-readme-stats) &nbsp;
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=cahyaa5758&count_private=true&show_icons=true&include_all_commits=true&icon_color=AEFDFF&border_radius=7.5px&border_color=628FDB&theme=tokyonight)](https://github.com/cahyaa5758/github-readme-stats) 
 
 <hr>
 
