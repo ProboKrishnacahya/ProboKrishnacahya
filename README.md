@@ -2,11 +2,12 @@
 
 # <samp>Hi there 👋 <br> I am <a href="https://s.id/cahyaa">Probo Krishnacahya</a> and good to see you.</samp>
 
-[![Gmail Badge](https://img.shields.io/badge/-prob.krshn@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:prob.krshn@gmail.com)](mailto:prob.krshn@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-Probo%20Krishnacahya-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/probo-krishnacahya/)](https://www.linkedin.com/in/probo-krishnacahya/)
-[![Instagram Badge](https://img.shields.io/badge/-cahyaa__02-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/cahyaa__02)](https://instagram.com/cahyaa__02)
-[![Telegram Badge](https://img.shields.io/badge/-@krshn5758-0088CC?style=plastic&logo=Telegram&logoColor=white)](https://t.me/krshn5758 "Contact on Telegram")
-[![GitHub Badge](https://img.shields.io/badge/-cahyaa5758-grey?style=plastic&logo=github&logoColor=white&link=https://github.com/cahyaa5758/)](https://www.github.com/cahyaa5758/) 
+[![Gmail Badge](https://img.shields.io/badge/-prob.krshn@gmail.com-C5221F?style=plastic&logo=gmail&logoColor=white&link=mailto:prob.krshn@gmail.com)](mailto:prob.krshn@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-Probo%20Krishnacahya-0274B3?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/probo-krishnacahya/)](https://www.linkedin.com/in/probo-krishnacahya/)
+[![Line Badge](https://img.shields.io/badge/-krshn_-00B900?style=plastic&logo=line&logoColor=white)](https://line.me/ti/p/~krshn_)
+[![Telegram Badge](https://img.shields.io/badge/-krshn5758-229ACD?style=plastic&logo=telegram&logoColor=white)](https://t.me/krshn5758 "Contact on Telegram")
+[![Instagram Badge](https://img.shields.io/badge/-cahyaa__02-DD2E7A?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/cahyaa__02)](https://instagram.com/cahyaa__02)
+[![GitHub Badge](https://img.shields.io/badge/-cahyaa5758-201F1F?style=plastic&logo=github&logoColor=white&link=https://github.com/cahyaa5758/)](https://www.github.com/cahyaa5758/) 
 
 ## 💻 Technologies Used
 ![HTML5](https://img.shields.io/badge/-HTML5-E44D26?style=plastic&logo=html5&logoColor=white)
@@ -20,7 +21,7 @@
 
 <hr>
 
-<img src="https://lanyard-profile-readme.vercel.app/api/542619130428391434" alt="Discord Presence" /><br>
+<img src="https://lanyard-profile-readme.vercel.app/api/542619130428391434?borderRadius=7.5px" alt="Discord Presence" /><br>
 :octocat: &nbsp; ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cahyaa5758.cahyaa5758)
 
 <!-- - 🔭 I’m currently working on 
