@@ -7,8 +7,8 @@
 [![GitHub Badge](https://img.shields.io/badge/-cahyaa5758-201F1F?style=plastic&logo=github&logoColor=white&link=https://github.com/cahyaa5758/)](https://www.github.com/cahyaa5758/)
 [![Line Badge](https://img.shields.io/badge/-krshn%5F%5F-00B900?style=plastic&logo=line&logoColor=white)](https://line.me/ti/p/~krshn_)
 [![Discord Badge](https://img.shields.io/badge/-cahyaa%5F%5F%230912-5865F2?style=plastic&logo=discord&logoColor=white)](https://discord.com/users/542619130428391434)
-[![Telegram Badge](https://img.shields.io/badge/-krshn5758-229ACD?style=plastic&logo=telegram&logoColor=white)](https://t.me/krshn5758 "Contact on Telegram")
-[![Instagram Badge](https://img.shields.io/badge/-cahyaa%5F%5F%5F%5F02-DD2E7A?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/cahyaa__02)](https://instagram.com/cahyaa__02)
+[![Telegram Badge](https://img.shields.io/badge/-cahyaa%5F%5F-229ACD?style=plastic&logo=telegram&logoColor=white)](https://t.me/cahyaa_ "Contact on Telegram")
+[![Instagram Badge](https://img.shields.io/badge/-cahyaa%5F%5F%5F%5F02-DD2E7A?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/cahyaa_._)](https://instagram.com/cahyaa_._)
 
 ## 💻 Technologies Used
 
