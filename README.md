@@ -4,7 +4,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-prob.krshn@gmail.com-C5221F?style=plastic&logo=gmail&logoColor=white&link=mailto:prob.krshn@gmail.com)](mailto:prob.krshn@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-Probo%20Krishnacahya-0274B3?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/probo-krishnacahya/)](https://www.linkedin.com/in/probo-krishnacahya/)
-[![GitHub Badge](https://img.shields.io/badge/-cahyaa5758-201F1F?style=plastic&logo=github&logoColor=white&link=https://github.com/cahyaa5758/)](https://www.github.com/cahyaa5758/)
+[![GitHub Badge](https://img.shields.io/badge/-cahyaa02-201F1F?style=plastic&logo=github&logoColor=white&link=https://github.com/cahyaa02/)](https://www.github.com/cahyaa02/)
 [![Line Badge](https://img.shields.io/badge/-krshn%5F%5F-00B900?style=plastic&logo=line&logoColor=white)](https://line.me/ti/p/~krshn_)
 [![Discord Badge](https://img.shields.io/badge/-cahyaa%5F%5F%230912-5865F2?style=plastic&logo=discord&logoColor=white)](https://discord.com/users/542619130428391434)
 [![Telegram Badge](https://img.shields.io/badge/-cahyaa%5F%5F-229ACD?style=plastic&logo=telegram&logoColor=white)](https://t.me/cahyaa_ "Contact on Telegram")
