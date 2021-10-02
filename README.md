@@ -10,6 +10,8 @@
 [![Telegram Badge](https://img.shields.io/badge/-cahyaa%5F%5F-229ACD?style=plastic&logo=telegram&logoColor=white)](https://t.me/cahyaa_ "Contact on Telegram")
 [![Instagram Badge](https://img.shields.io/badge/-cahyaa%5F%5F.%5F%5F-DD2E7A?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/cahyaa_._)](https://instagram.com/cahyaa_._)
 
+`Frontend Web Developer, Frontend Android Native Developer`
+
 ## 💻 Technologies Used
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cahyaa02&layout=compact&langs_count=25&border_radius=7.5px&border_color=B85776&theme=dracula)](https://github.com/cahyaa02/github-readme-stats) &nbsp;
