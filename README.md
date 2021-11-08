@@ -10,7 +10,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-cahyaa%5F%5F-229ACD?style=plastic&logo=telegram&logoColor=white)](https://t.me/cahyaa_ "Contact on Telegram")
 [![Instagram Badge](https://img.shields.io/badge/-cahyaa%5F%5F.%5F%5F-DD2E7A?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/cahyaa_._)](https://instagram.com/cahyaa_._)
 
-`Frontend Web Developer, Frontend Android Native Developer`
+`Frontend Developer`
 
 ## 💻 Technologies Used
 
