@@ -12,14 +12,14 @@
 
 `Frontend Developer`
 
-## 💻 Technologies Used
+## :octocat:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cahyaa02&layout=compact&langs_count=25&border_radius=7.5px&border_color=B85776&theme=dracula)](https://github.com/cahyaa02/github-readme-stats) &nbsp;
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=cahyaa02&count_private=true&show_icons=true&include_all_commits=true&icon_color=AEFDFF&border_radius=7.5px&border_color=628FDB&theme=tokyonight)](https://github.com/cahyaa02/github-readme-stats)
 
 <hr>
 
-:octocat: &nbsp; ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cahyaa5758.cahyaa5758) &emsp; © Probo Krishnacahya
+© Probo Krishnacahya
 
 <!-- - 🔭 I’m currently working on
 - 🌱 I’m currently learning
