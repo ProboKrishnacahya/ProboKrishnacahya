@@ -2,7 +2,7 @@
 
 # <samp>Hi there 👋 <br> I am <a href="https://rebrand.ly/probo-krishnacahya">Probo Krishnacahya</a> and good to see you.</samp>
 
-[![Gmail Badge](https://img.shields.io/badge/-probo.krishnacahya@gmail.com-C5221F?style=plastic&logo=gmail&logoColor=white&link=mailto:probo.krishnacahya@gmail.com)](mailto:prob.krshn@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-probo.krishnacahya@gmail.com-C5221F?style=plastic&logo=gmail&logoColor=white&link=mailto:probo.krishnacahya@gmail.com)](mailto:probo.krishnacahya@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-Probo%20Krishnacahya-0274B3?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/probo-krishnacahya/)](https://www.linkedin.com/in/probo-krishnacahya/)
 [![GitHub Badge](https://img.shields.io/badge/-cahyaa02-201F1F?style=plastic&logo=github&logoColor=white&link=https://github.com/cahyaa02/)](https://www.github.com/cahyaa02/)
 [![Line Badge](https://img.shields.io/badge/-krshn%5F%5F-00B900?style=plastic&logo=line&logoColor=white)](https://line.me/ti/p/~krshn_)
