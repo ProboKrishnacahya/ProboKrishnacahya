@@ -8,7 +8,7 @@
 [![Line Badge](https://img.shields.io/badge/-krshn%5F%5F-00B900?style=plastic&logo=line&logoColor=white)](https://line.me/ti/p/~krshn_)
 [![Discord Badge](https://img.shields.io/badge/-cahyaa%5F%5F%230912-5865F2?style=plastic&logo=discord&logoColor=white)](https://discord.com/users/542619130428391434)
 [![Telegram Badge](https://img.shields.io/badge/-cahyaa%5F%5F-229ACD?style=plastic&logo=telegram&logoColor=white)](https://t.me/cahyaa_ "Contact on Telegram")
-[![Instagram Badge](https://img.shields.io/badge/-cahyaa%5F%5F.%5F%5F-DD2E7A?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/cahyaa_._)](https://instagram.com/cahyaa_._)
+[![Instagram Badge](https://img.shields.io/badge/-probo%5F%5Fkrishnacahya-DD2E7A?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/probo_krishnacahya/)](https://www.instagram.com/probo_krishnacahya/)
 
 `Frontend Developer & UI/UX Designer`
 
