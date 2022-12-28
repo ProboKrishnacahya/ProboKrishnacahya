@@ -14,12 +14,13 @@
 
 ## :octocat:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProboKrishnacahya&layout=compact&langs_count=25&border_radius=8px&border_color=B85776&theme=dracula)](https://github.com/ProboKrishnacahya/github-readme-stats) &nbsp;
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=ProboKrishnacahya&count_private=true&show_icons=true&include_all_commits=true&icon_color=AEFDFF&border_radius=8px&border_color=628FDB&theme=tokyonight)](https://github.com/ProboKrishnacahya/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProboKrishnacahya&layout=compact&langs_count=25&border_radius=16px&border_color=B85776&theme=dracula)](https://github.com/ProboKrishnacahya/github-readme-stats) &nbsp;
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ProboKrishnacahya&border_color=61D9FA&theme=react&border_radius=16&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)<br/>
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=ProboKrishnacahya&count_private=true&show_icons=true&include_all_commits=true&icon_color=AEFDFF&border_radius=16px&border_color=628FDB&theme=tokyonight)](https://github.com/ProboKrishnacahya/github-readme-stats)
 
 <hr>
 
-© Probo Krishnacahya
+Probo Krishnacahya
 
 <!-- - 🔭 I’m currently working on
 - 🌱 I’m currently learning
