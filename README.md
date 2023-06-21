@@ -1,6 +1,6 @@
 <div align="center"  />
 
-# <samp>Hi there 👋 <br> I am <a href="https://rebrand.ly/probo-krishnacahya">Probo Krishnacahya</a>, nice to meet you.</samp>
+# <samp>Hi there 👋 <br> I am <a href="https://probo-krishnacahya.web.app/">Probo Krishnacahya</a>, nice to meet you.</samp>
 
 [![Gmail Badge](https://img.shields.io/badge/-probo.krishnacahya@gmail.com-C5221F?style=plastic&logo=gmail&logoColor=white&link=mailto:probo.krishnacahya@gmail.com)](mailto:probo.krishnacahya@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-Probo%20Krishnacahya-0274B3?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/probo-krishnacahya/)](https://www.linkedin.com/in/probo-krishnacahya/)
