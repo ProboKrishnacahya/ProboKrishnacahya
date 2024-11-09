@@ -2,8 +2,8 @@
 
 # <samp>Hi there :wave: <br> I am <a href="https://probo-krishnacahya.web.app/">Probo Krishnacahya</a>, nice to meet you.</samp>
 
-[![LinkedIn Badge](https://img.shields.io/badge/-probo%2d%2dkrishnacahya-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/probo-krishnacahya/)
-[![WhatsApp Badge](https://img.shields.io/badge/+6285190055343-seagreen?logo=whatsapp&logoColor=white)](https://wa.me/message/PVKIHMW2KTLRG1)
+<!-- [![LinkedIn Badge](https://img.shields.io/badge/-probo%2d%2dkrishnacahya-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/probo-krishnacahya/) -->
+<!-- [![WhatsApp Badge](https://img.shields.io/badge/+6285190055343-seagreen?logo=whatsapp&logoColor=white)](https://wa.me/message/PVKIHMW2KTLRG1) -->
 [![Line Badge](https://img.shields.io/badge/-krshn%5F%5F-brightgreen?logo=line&logoColor=white)](https://line.me/ti/p/~krshn_)
 [![Discord Badge](https://img.shields.io/badge/-probo%5F%5Fkrishnacahya%230912-royalblue?logo=discord&logoColor=white)](https://discord.com/users/542619130428391434)
 [![Instagram Badge](https://img.shields.io/badge/-probo%5F%5Fkrishnacahya-mediumvioletred?logo=instagram&logoColor=white)](https://www.instagram.com/probo_krishnacahya/)
