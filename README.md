@@ -1,5 +1,9 @@
-# <div align="center">`Probo Krishnacahya`</div>
+<div align="center">
+    
+# `Probo Krishnacahya`
 
+<div align="start">
+    
 ```tsx
 // Hi, peeps!
 
@@ -11,7 +15,7 @@ interface ProfileProps {
 const Profile: React.FC<ProfileProps> = ({ fullName, specializations }) => (
     <>
         <h1>{fullName}</h1>
-        <h3>{specializations.join(', ')}</h3>
+        <h2>{specializations.join(', ')}</h3>
     </>
 );
 
@@ -24,6 +28,8 @@ export default function About() {
     );
 }
 ```
+
+</div>
 
 [![Line](https://img.shields.io/badge/-krshn%5F%5F-krshn_?label=LINE&style=social&logo=line)](https://line.me/ti/p/~krshn_)
 [![Discord](https://img.shields.io/badge/-Probo%5F%5FKrishnacahya%230912-Discord?label=Discord&style=social&logo=discord)](https://discord.com/users/542619130428391434)
@@ -39,10 +45,12 @@ export default function About() {
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white)
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?logo=sketch&logoColor=black)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProboKrishnacahya&layout=compact&langs_count=25&border_radius=16px&border_color=B85776&theme=dracula)](https://github.com/ProboKrishnacahya/github-readme-stats) &nbsp;
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ProboKrishnacahya&border_color=61D9FA&theme=react&border_radius=16&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)<br/>
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=ProboKrishnacahya&count_private=true&show_icons=true&include_all_commits=true&icon_color=AEFDFF&border_radius=16px&border_color=628FDB&theme=tokyonight)](https://github.com/ProboKrishnacahya/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ProboKrishnacahya&theme=tokyonight&border_radius=16&date_format=j%2Fn%5B%2FY%5D&border=628FDB)](https://git.io/streak-stats)&nbsp;[![Github Stats](https://github-readme-stats.vercel.app/api?username=ProboKrishnacahya&count_private=true&show_icons=true&include_all_commits=true&icon_color=AEFDFF&border_radius=16px&border_color=628FDB&theme=tokyonight)](https://github.com/ProboKrishnacahya/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProboKrishnacahya&layout=compact&langs_count=25&border_radius=16px&border_color=628FDB&theme=tokyonight)](https://github.com/ProboKrishnacahya/github-readme-stats)
 
 ---
 
-<div align="center">:octocat:</div>
+:octocat:
+
+</div>
