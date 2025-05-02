@@ -15,7 +15,7 @@ interface ProfileProps {
 const Profile: React.FC<ProfileProps> = ({ fullName, specializations }) => (
     <>
         <h1>{fullName}</h1>
-        <h2>{specializations.join(', ')}</h3>
+        <h2>{specializations.join(', ')}</h2>
     </>
 );
 
@@ -41,6 +41,7 @@ export default function About() {
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?logo=bootstrap&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)
 ![Filament](https://img.shields.io/badge/Filament-FFAA00?logo=filament&logoColor=%23000000)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0173FD?logo=swift&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?logo=framer&logoColor=blue)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white)
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?logo=sketch&logoColor=black)
