@@ -1,6 +1,6 @@
 <div align="center">
     
-# `Probo Krishnacahya`
+# `Probo Krishnacahya, S.Kom., CSBP.`
 
 <div align="start">
     
@@ -23,7 +23,7 @@ export default function About() {
     return (
         <Profile
             fullName="Probo Krishnacahya"
-            specializations={['Frontend Developer', 'UI/UX Designer']}
+            specializations={['UI/UX Designer', 'Web Designer', 'Mobile Application Designer', 'Product Designer', 'Visual Designer', 'UI Engineer']}
         />
     );
 }
